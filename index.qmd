@@ -1,5 +1,16 @@
 ---
-title: "annanisi.github.io"
+title: "Anna Nisi"
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/annanisi
+    - text: Email
+      href: mailto:anisi@uw.edu
 ---
 
 This is a Quarto website.
