@@ -1,11 +1,11 @@
 ---
 title: "Anna Nisi"
-image: media/headshot.jpeg
+image: headshot.jpeg
 toc: false
-about: 
+about:
   template: jolla
-  image-shape: round
-  image-width: 17em
+  # image-shape: round
+  # image-width: 17em
   links:
     - text: GitHub
       href: https://github.com/annanisi
@@ -13,10 +13,6 @@ about:
       href: mailto:anisi@uw.edu
 ---
 
-This is a Quarto website.
+![](null)My name is Anna Nisi (she/they), and I am a postdoctoral researcher in the Center for Ecosystem Sentinels at the University of Washington. I aim to understand how large, highly mobile predators coexist with people in human-dominated landscapes and seascapes and apply that information to develop conservation solutions. My research spans marine and terrestrial systems. For my postdoc at the University of Washington, I am modeling great whale distributions in order to map ship-strike risk across the world's oceans, at both global and regional sclaes. During my PhD at UC Santa Cruz, I studied how habitat fragmentation impacts puma (*Puma concolor*) movement ecology and population dynamics
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+asdfa
