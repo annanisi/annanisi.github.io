@@ -6,8 +6,8 @@ website:
   title: "Anna Nisi"
   navbar:
     left:
-      # - href: index.qmd
-        # text: Home
+      - href: index.qmd
+        text: Home
       # - about.qmd
       - research.qmd
       - outreach.qmd
