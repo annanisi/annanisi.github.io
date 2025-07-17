@@ -28,4 +28,4 @@ Roles: President (2019-2021), Secretary (2017-2019)
 
 During my PhD, I led the Santa Cruz Chapter of the Society for Conservation Biology alongside some wonderful friends and colleagues. We put on a series of seminars related to local conservation issues, hosted a successful fundraiser for a community-based conservation organization, and organized the 2021 Bay Area Conservation Biology Symposium.
 
-![A 2018 SCSCB seminar event.](media/2018%20SCB%20and%20CAMINO%20panel.JPG)
+![A 2018 SCSCB seminar event.](media/2018%20SCB%20and%20CAMINO%20panel.JPG){width="6in"}

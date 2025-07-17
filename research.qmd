@@ -14,7 +14,7 @@ Very broadly, my research spans marine and terrestrial systems and asks how peop
 
 -   I modeled how living in more developed areas influences puma mortality rates ([Nisi et al. 2023, *Ecological Applications*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2822)), finding that exposure to human development is associated with reduced survival which scales up to produce source-sink dynamics across the region.
 
-    ![From Nisi et al. 2023. Puma survival rate, population growth rate, and several habitat selection metrics across the study area. In the population growth rate panel, areas in blue indicate "sink" areas - places where the population growth rate is negative.](media/source_sink_figure.jpg)
+![From Nisi et al. 2023. Puma survival rate, population growth rate, and several habitat selection metrics across the study area. In the population growth rate panel, areas in blue indicate "sink" areas - places where the population growth rate is negative.](media/source_sink_figure.jpg){width="6in"}
 
 -   I characterized patterns of human-caused mortality for pumas in a human-dominated landscape ([Nisi et al. 2022, *Oikos*](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.09051)), finding a mismatch between areas that pumas perceive as risky with where they are at the highest risk of being killed.
 
@@ -26,7 +26,9 @@ Very broadly, my research spans marine and terrestrial systems and asks how peop
 
 ![From Nisi et al. 2024. Global predicted monthly distributions for blue whales from iSDMs.](media/animation_blue_mean.gif)
 
--   I investigated how temporal scale (i.e., the rate at which GPS locations are recorded) influences inference from habitat selection analyses ([Nisi et al. 2022, *Journal of Animal Ecology*](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13613)), finding that different drivers of habitat selection emerge more strongly at finer versus coarser scales. ![From Nisi et al. 2021. Puma habitat selection responses to terrain slope and housing density across a range of temporal scales.](media/temporal_grain_figure.jpg)
+-   I investigated how temporal scale (i.e., the rate at which GPS locations are recorded) influences inference from habitat selection analyses ([Nisi et al. 2022, *Journal of Animal Ecology*](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13613)), finding that different drivers of habitat selection emerge more strongly at finer versus coarser scales.
+
+![From Nisi et al. 2021. Puma habitat selection responses to terrain slope and housing density across a range of temporal scales.](media/temporal_grain_figure.jpg){width="6in"}
 
 -   I integrated population modeling and habitat selection analyses for pumas in the Santa Cruz Mountains ([Nisi et al. 2023, *Ecological Applications*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2822)), to evaluate which habitat selection metric is the strongest proxy for puma population growth rate in this region.
 
@@ -38,8 +40,8 @@ Very broadly, my research spans marine and terrestrial systems and asks how peop
 
 -   I am collaborating with [Protecting Blue Whales and Blue Skies](https://www.bluewhalesblueskies.org/), a program that calculates cooperation rates and environmental benefits associated with shipping company participation in NOAA's voluntary vessel speed reduction zones in several National Marine Sanctuaries along the California coastline. In this work I calculate ship-strike risk reduction benefits associated with vessel slow-downs and am also developing down-scaled habitat suitability models for blue, fin, humpback, and gray whales to inform potential program expansion.
 
-![Presenting my ship-strike modeling results to a manager workshop with BWBS.](media/pac-whale_talk.jpg)
+![Presenting my ship-strike modeling results to a manager workshop with BWBS.](media/pac-whale_talk.jpg){width="6in"}
 
 -   I am working with PaC-Whale (Northeast Pacific Collaborative to Reduce Vessel Impacts on Whales), a collective effort across marine protected area managers from Canada to Costa Rica, to inform expanded protections for endangered whales in the eastern Pacific Basin across their entire migratory range.
 
-![The first in-person meeting of the PaC-Whale group in Santa Cruz, CA in 2024.](media/pac-whale_group.jpg)
+![The first in-person meeting of the PaC-Whale group in Santa Cruz, CA in 2024.](media/pac-whale_group.jpg){width="6in"}
