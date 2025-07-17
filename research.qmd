@@ -4,38 +4,42 @@ title-block-banner-color: white
 title-block-banner: media/IMG_5592.jpeg
 ---
 
-Very broadly, my research spans marine and terrestrial systems and asks how people and wildlife can better coexist. This involves investigating the **spatial patterns of exposure to anthropogenic threats**, characterizing how **wildlife behavioral responses** to these threats, and quantifying the impact of these threats on **wildlife population dynamics**.
+Very broadly, my research spans marine and terrestrial systems and asks how people and wildlife can better coexist. I aim to both advance scientific knowledge around patterns of wildlife exposure to anthropogenic threats, including better understanding how animal behavior mediates threat exposure and how these threats impact wildlife population dynamics, as well as use this science to improve conservation and management. Below, I've selected some example publications and projects that illustrate the key themes of my research.
 
-## Modeling and mapping whale-ship collision risk
+## Spatial mapping of species distributions and threats
 
-My postdoctoral research aims to better understand patterns of ship-strike risk to several great whale species. Whale-ship collisions are a major source of mortality for the great whales but their spatial dynamics are difficult to characterize. I leverage integrated species distribution modeling to map whale habitat suitability at several scales, map shipping traffic using automatic identification systems (AIS) data, and overlay these two layers to quantify whale-ship collision risk and evaluate where gaps in protection exist.
+-   I modeled patterns of global ship-strike risk for blue, fin, humpback, and sperm whales ([Nisi et al. 2024, *Science*](https://www.science.org/doi/10.1126/science.adp1950)), which revealed novel hotspots of ship-strike risk for these species as well as the low levels of protection currently in place. This work constituted the first global-scale characterization of whale-ship collision risk, filling a critical knowledge gap for expanding mitigation measures.
 
--   I modeled patterns of global ship-strike risk for blue, fin, humpback, and sperm whales ([Nisi et al. 2024, *Science*](https://www.science.org/doi/10.1126/science.adp1950)), which revealed novel hotspots of ship-strike risk for these species as well as the low levels of protection currently in place.
+    ![From Nisi et al. 2024. Spatial overlap between whales and shipping traffic.](media/science_figure_1.jpg)
 
-    -   If you're interested in reading more, please see my companion [popular science piece](https://theconversation.com/new-maps-show-high-risk-zones-for-whale-ship-collisions-vessel-speed-limits-and-rerouting-can-reduce-the-toll-242267?notice=Article+has+been+updated) in *The Conversation*.
+-   I modeled how living in more developed areas influences puma mortality rates ([Nisi et al. 2023, *Ecological Applications*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2822)), finding that exposure to human development is associated with reduced survival which scales up to produce source-sink dynamics across the region.
 
-    -   Code and data associated with this project is archived on [Zenodo](https://zenodo.org/records/13966184) and is also available on my [Github](https://github.com/annanisi/Global_Whale_Ship).
+    ![From Nisi et al. 2023. Puma survival rate, population growth rate, and several habitat selection metrics across the study area. In the population growth rate panel, areas in blue indicate "sink" areas - places where the population growth rate is negative.](media/source_sink_figure.jpg)
 
--   I am now collaborating with [Protecting Blue Whales and Blue Skies](https://www.bluewhalesblueskies.org/), a program that calculates cooperation rates and environmental benefits associated with shipping company participation in NOAA's voluntary vessel speed reduction zones in several National Marine Sanctuaries along the California coastline. In this work I calculate ship-strike risk reduction benefits associated with vessel slow-downs and am also developing down-scaled habitat suitability models for blue, fin, humpback, and gray whales to inform potential program expansion.
+-   I characterized patterns of human-caused mortality for pumas in a human-dominated landscape ([Nisi et al. 2022, *Oikos*](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.09051)), finding a mismatch between areas that pumas perceive as risky with where they are at the highest risk of being killed.
 
-![A humpback whale in front of a large vessel in the Santa Barbara Channel. Photo by Adam Ernster](media/Adam-Ernster-Humpback-Ship%20CREDIT%20-%20Adam%20Ernster.jpg)
+    ![From Nisi et al. 2022. Panel A shows the risk of retaliatory killings (i.e., when a puma is killed by a person following its consumption of a domestic goat). Panel B shows puma habitat selection. Panel C shows areas that are both selected by pumas and where their risk of being killed by people is high - indicating a mismatch between behavior and threat exposure.](media/oikos_figure.jpg)
 
-## Movement ecology and population dynamics of terrestrial carnivores
+## Quantitative methods in conservation ecology 
 
-I also study the movement ecology and population dynamics of large carnivores in human-dominated landscapes. I began this work during my PhD with the [Santa Cruz Puma Project](https://www.santacruzpumas.org/) at [UC Santa Cruz](https://wildlife.ucsc.edu/) and have continued it into my postdoc in the [Abrahms Lab](https://www.abrahmslab.com/) at UW.
+-   For my global analysis of whale-ship collision risk, I worked with \>435,000 whale locations to build integrated species distribution models (iSDMs) incorporating survey, sightings, and tagging data into Bayesian hierarchical models fit with INLA. I also worked with Automatic Identification Systems (AIS) data to map global shipping traffic. Code and data for this project are archived on [Zenodo](https://zenodo.org/records/13966184) and also available on my [Github](https://github.com/annanisi/Global_Whale_Ship).
 
-Selected relevant publications:
+![From Nisi et al. 2024. Global predicted monthly distributions for blue whales from iSDMs.](media/animation_blue_mean.gif)
 
--   **Nisi A.C.,** Benson J.F., King R., Wilmers C.C. [Habitat fragmentation reduces survival and drives source-sink dynamics for a large carnivore](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2822). *Ecological Applications* (2023). DOI: 10.1002/eap.2822
+-   I investigated how temporal scale (i.e., the rate at which GPS locations are recorded) influences inference from habitat selection analyses ([Nisi et al. 2022, *Journal of Animal Ecology*](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13613)), finding that different drivers of habitat selection emerge more strongly at finer versus coarser scales. ![From Nisi et al. 2021. Puma habitat selection responses to terrain slope and housing density across a range of temporal scales.](media/temporal_grain_figure.jpg)
 
--   **Nisi A.C.**, Benson J.F., Wilmers C.C. [Puma responses to unreliable human cues suggest an ecological trap in a fragmented landscape](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.09051). *Oikos* (2022). DOI: 10.1111/oik.09051
+-   I integrated population modeling and habitat selection analyses for pumas in the Santa Cruz Mountains ([Nisi et al. 2023, *Ecological Applications*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2822)), to evaluate which habitat selection metric is the strongest proxy for puma population growth rate in this region.
 
--   **Nisi A.C.**, Suraci J.P., Ranc N., Frank L.G., Oriol-Cotterill A., Ekwanga S., Williams T.M., Wilmers C.C. [The temporal scale of habitat selection in large carnivores: balancing energetics, risk, and finding prey](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13613). *Journal of Animal Ecology* (2022).DOI: 10.1111/1365-2656.13613
+-   I leveraged human mobility data alongside puma movement data to characterize how puma habitat selection patterns changed during COVID shelter-in-place orders ([Wilmers et al. 2021, *Current Biology*](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00879-4)), finding that pumas shifted closer to the urban edge during shelter-in-place periods when people were less mobile.
 
--   Abrahms B.A., Rafiq K., **Nisi A.C.,** Jordan N.R., Wilson A.M., Loveridge A.J., Kotze R., Sousa L.L., McNutt J.W. [Intraguild competition mediates human avoidance in an endangered African large carnivore](http://doi.org/10.1098/rspb.2024.2835). *Proc. R. Soc. B* (2025) DOI: 10.1098/rspb.2024.2835
+    ![From Wilmers et al. 2021. Panel A shows patterns of human mobility across the shelter-in-place order (SIPO), panel B shows puma habitat selection before and after SIPO, and panels C-E show puma locations during each period.](media/covid_figure.jpg)
 
--   Wilmers C.C., **Nisi A.C.,** Nathan R.[COVID-19 suppression of human mobility releases mountain lions from a landscape of fear](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00879-4). *Current Biology* (2021). DOI: 10.1016/j.cub.2021.06.050
+## Integrating science with conservation and management
 
--   Nickel B.A., Suraci J.P., **Nisi A.C.**, Wilmers C.C. [Energetics and fear of humans constrain the spatial ecology of pumas](https://www.pnas.org/doi/abs/10.1073/pnas.2004592118). *Proceedings of the National Academy of Sciences* (2021). DOI: 10.1073/pnas.2004592118
+-   I am collaborating with [Protecting Blue Whales and Blue Skies](https://www.bluewhalesblueskies.org/), a program that calculates cooperation rates and environmental benefits associated with shipping company participation in NOAA's voluntary vessel speed reduction zones in several National Marine Sanctuaries along the California coastline. In this work I calculate ship-strike risk reduction benefits associated with vessel slow-downs and am also developing down-scaled habitat suitability models for blue, fin, humpback, and gray whales to inform potential program expansion.
 
-![Puma 26M in California's Santa Cruz Mountains. Photo by Sebastian Kennerknecht.](media/26M.jpg)
+![Presenting my ship-strike modeling results to a manager workshop with BWBS.](media/pac-whale_talk.jpg)
+
+-   I am working with PaC-Whale (Northeast Pacific Collaborative to Reduce Vessel Impacts on Whales), a collective effort across marine protected area managers from Canada to Costa Rica, to inform expanded protections for endangered whales in the eastern Pacific Basin across their entire migratory range.
+
+![The first in-person meeting of the PaC-Whale group in Santa Cruz, CA in 2024.](media/pac-whale_group.jpg)

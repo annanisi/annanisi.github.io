@@ -1,0 +1,41 @@
+---
+title: "Research"
+title-block-banner-color: white
+title-block-banner: media/IMG_5592.jpeg
+---
+
+Very broadly, my research spans marine and terrestrial systems and asks how people and wildlife can better coexist. This involves investigating the **spatial patterns of exposure to anthropogenic threats**, characterizing how **wildlife behavioral responses** to these threats, and quantifying the impact of these threats on **wildlife population dynamics**.
+
+## Modeling and mapping whale-ship collision risk
+
+My postdoctoral research aims to better understand patterns of ship-strike risk to several great whale species. Whale-ship collisions are a major source of mortality for the great whales but their spatial dynamics are difficult to characterize. I leverage integrated species distribution modeling to map whale habitat suitability at several scales, map shipping traffic using automatic identification systems (AIS) data, and overlay these two layers to quantify whale-ship collision risk and evaluate where gaps in protection exist.
+
+-   I modeled patterns of global ship-strike risk for blue, fin, humpback, and sperm whales ([Nisi et al. 2024, *Science*](https://www.science.org/doi/10.1126/science.adp1950)), which revealed novel hotspots of ship-strike risk for these species as well as the low levels of protection currently in place.
+
+    -   If you're interested in reading more, please see my companion [popular science piece](https://theconversation.com/new-maps-show-high-risk-zones-for-whale-ship-collisions-vessel-speed-limits-and-rerouting-can-reduce-the-toll-242267?notice=Article+has+been+updated) in *The Conversation*.
+
+    -   Code and data associated with this project is archived on [Zenodo](https://zenodo.org/records/13966184) and is also available on my [Github](https://github.com/annanisi/Global_Whale_Ship).
+
+-   I am now collaborating with [Protecting Blue Whales and Blue Skies](https://www.bluewhalesblueskies.org/), a program that calculates cooperation rates and environmental benefits associated with shipping company participation in NOAA's voluntary vessel speed reduction zones in several National Marine Sanctuaries along the California coastline. In this work I calculate ship-strike risk reduction benefits associated with vessel slow-downs and am also developing down-scaled habitat suitability models for blue, fin, humpback, and gray whales to inform potential program expansion.
+
+![A humpback whale in front of a large vessel in the Santa Barbara Channel. Photo by Adam Ernster](media/Adam-Ernster-Humpback-Ship%20CREDIT%20-%20Adam%20Ernster.jpg)
+
+## Movement ecology and population dynamics of terrestrial carnivores
+
+I also study the movement ecology and population dynamics of large carnivores in human-dominated landscapes. I began this work during my PhD with the [Santa Cruz Puma Project](https://www.santacruzpumas.org/) at [UC Santa Cruz](https://wildlife.ucsc.edu/) and have continued it into my postdoc in the [Abrahms Lab](https://www.abrahmslab.com/) at UW.
+
+Selected relevant publications:
+
+-   **Nisi A.C.,** Benson J.F., King R., Wilmers C.C. [Habitat fragmentation reduces survival and drives source-sink dynamics for a large carnivore](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2822). *Ecological Applications* (2023). DOI: 10.1002/eap.2822
+
+-   **Nisi A.C.**, Benson J.F., Wilmers C.C. [Puma responses to unreliable human cues suggest an ecological trap in a fragmented landscape](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.09051). *Oikos* (2022). DOI: 10.1111/oik.09051
+
+-   **Nisi A.C.**, Suraci J.P., Ranc N., Frank L.G., Oriol-Cotterill A., Ekwanga S., Williams T.M., Wilmers C.C. [The temporal scale of habitat selection in large carnivores: balancing energetics, risk, and finding prey](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13613). *Journal of Animal Ecology* (2022).DOI: 10.1111/1365-2656.13613
+
+-   Abrahms B.A., Rafiq K., **Nisi A.C.,** Jordan N.R., Wilson A.M., Loveridge A.J., Kotze R., Sousa L.L., McNutt J.W. [Intraguild competition mediates human avoidance in an endangered African large carnivore](http://doi.org/10.1098/rspb.2024.2835). *Proc. R. Soc. B* (2025) DOI: 10.1098/rspb.2024.2835
+
+-   Wilmers C.C., **Nisi A.C.,** Nathan R.[COVID-19 suppression of human mobility releases mountain lions from a landscape of fear](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00879-4). *Current Biology* (2021). DOI: 10.1016/j.cub.2021.06.050
+
+-   Nickel B.A., Suraci J.P., **Nisi A.C.**, Wilmers C.C. [Energetics and fear of humans constrain the spatial ecology of pumas](https://www.pnas.org/doi/abs/10.1073/pnas.2004592118). *Proceedings of the National Academy of Sciences* (2021). DOI: 10.1073/pnas.2004592118
+
+![Puma 26M in California's Santa Cruz Mountains. Photo by Sebastian Kennerknecht.](media/26M.jpg)
