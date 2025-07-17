@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "annanisi.github.io"
+  title: "Anna Nisi"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      # - href: index.qmd
+        # text: Home
+      # - about.qmd
+      - research.qmd
+      - outreach.qmd
+      # - teaching.qmd
+      - publications.qmd
+      
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

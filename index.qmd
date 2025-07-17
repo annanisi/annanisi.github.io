@@ -1,16 +1,40 @@
 ---
 title: "Anna Nisi"
-image: headshot.jpeg
+title-block-banner-color: white
+title-block-banner: media/IMG_5059.jpg
+image: media/headshot.jpg
 toc: false
 about:
-  template: jolla
+  template: solana
   # image-shape: round
   # image-width: 17em
   links:
     - text: GitHub
       href: https://github.com/annanisi
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=szVxcYAAAAAJ&hl=en
     - text: Email
       href: mailto:anisi@uw.edu
 ---
 
-![](null)My name is Anna Nisi (she/they), and I am a postdoctoral researcher in the Center for Ecosystem Sentinels at the University of Washington. I aim to understand how large, highly mobile predators coexist with people in human-dominated landscapes and seascapes and apply that information to develop conservation solutions. My research spans marine and terrestrial systems. For my postdoc at the University of Washington, I am modeling great whale distributions in order to map ship-strike risk across the world's oceans, at both global and regional sclaes. During my PhD at UC Santa Cruz, I studied how habitat fragmentation impacts puma (*Puma concolor*) movement ecology and population dynamics
+My name is Anna Nisi and I am a postdoctoral researcher in the [Center for Ecosystem Sentinels](https://ecosystemsentinels.org/) at the [University of Washington](https://www.biology.washington.edu/). I aim to understand how large, highly mobile predators coexist with people in human-dominated landscapes and seascapes and apply that information to develop conservation solutions. My research spans marine and terrestrial systems. For my postdoc at the University of Washington, I am modeling great whale distributions in order to map ship-strike risk across the world's oceans, at both global and regional scales. During my PhD at UC Santa Cruz, I studied how habitat fragmentation impacts puma (*Puma concolor*) movement ecology and population dynamics.
+
+**Interests**
+
+-   Quantitative ecology
+
+-   Applied conservation research
+
+-   Human-dominated environments
+
+-   Marine and terrestrial predators
+
+## Education
+
+**University of California, Santa Cruz** \| Santa Cruz, CA
+
+PhD in Environmental Studies, 2015-2021
+
+**Carleton College** \| Northfield, MN
+
+BA in Biology, 2010-2014
