@@ -1,0 +1,48 @@
+---
+title: "Teaching"
+title-block-banner-color: white
+title-block-banner: media/IMG_2938_2.jpg
+---
+
+## Ecology of Animal Movement (instructor of record)
+
+-   Co-developed and taught a quarter-long, 4-credit course on the basics and applications of animal movement ecology.
+
+-   Course included quantitative lab teaching students to analyze animal movement and
+    environment data in R.![]()
+
+-   BIOL 468, University of Washington, Spring 2022
+
+## Field instruction
+
+### Doris Duke Conservation Scholars Program
+
+-   The [DDCSP program](https://conservationscholars.ucsc.edu/) is a field-based leadership program designed to improve justice and equity in conservation.
+
+-   As a visiting instructor during summer 2022, I developed and implemented field-based instruction on ecological field project design, statistics and writing, and professional development programming for two weeks of the summer field quarter.
+
+-   I was also a DDCSP grad mentor for the entire summer field quarter in 2021.
+
+![Students collecting data for intertidal ecology field projects at Duxbury Reef.](media/IMG_4903.jpg)
+
+### Small Mammal Undergraduate Research in Forests (SMURF)
+
+-   I coordinated the [SMURF program](https://undergradresearch.ucsc.edu/ugr/small-mammal-undergraduate-research-in-the-forest-smurf/) from 2018-2020, which collected long-term small mammal monitoring data at two UC reserves. In this role I organized and ran twice-quarterly field trips and provided field instruction on animal capture and handling.
+
+    ![A SMURF student handling a Peromyscus californicus at the UCSC Campus Reserve.](media/IMG_8135.jpg){width="4in"}
+
+### UCSC Supercourse
+
+-   I was a TA for the [UCSC Supercourse](https://www.eeb.ucsc.edu/academics/undergrad/field-experience/field-experience-quarters.html), an intensive field quarter that included a 3-week field period. This involved supervising and advising student field projects, teaching fieldwork and presentation skills, and managing field safety and logistical concerns.
+
+    ![Helping students process a kangaroo rat for a small mammal trapping project in the Mojave Desert.](media/IMG_2567.jpg)
+
+## Additional teaching assistantships
+
+-   Natural History of Birds and Mammals, UC Santa Cruz, COSMOS program, Summer 2019
+
+-   Ecology and Society (ENVS 100), UC Santa Cruz, Winter 2017
+
+-   Conservation Biology (ENVS 120), UC Santa Cruz, Fall 2016
+
+### 

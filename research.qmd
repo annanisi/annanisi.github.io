@@ -20,7 +20,7 @@ Very broadly, my research spans marine and terrestrial systems and asks how peop
 
     ![From Nisi et al. 2022. Panel A shows the risk of retaliatory killings (i.e., when a puma is killed by a person following its consumption of a domestic goat). Panel B shows puma habitat selection. Panel C shows areas that are both selected by pumas and where their risk of being killed by people is high - indicating a mismatch between behavior and threat exposure.](media/oikos_figure.jpg)
 
-## Quantitative methods in conservation ecology 
+## Quantitative methods in conservation ecology
 
 -   For my global analysis of whale-ship collision risk, I worked with \>435,000 whale locations to build integrated species distribution models (iSDMs) incorporating survey, sightings, and tagging data into Bayesian hierarchical models fit with INLA. I also worked with Automatic Identification Systems (AIS) data to map global shipping traffic. Code and data for this project are archived on [Zenodo](https://zenodo.org/records/13966184) and also available on my [Github](https://github.com/annanisi/Global_Whale_Ship).
 
