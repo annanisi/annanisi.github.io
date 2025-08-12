@@ -8,7 +8,7 @@ title-block-banner: media/IMG_2938_2.jpg
 
 -   Co-developed and taught a quarter-long, 4-credit course on the basics and applications of animal movement ecology.
 
--   Course included quantitative lab teaching students to analyze animal movement and environment data in R.![]()
+-   Course included quantitative lab teaching students to analyze animal movement and environment data in R.
 
 -   BIOL 468, University of Washington, Spring 2022
 
